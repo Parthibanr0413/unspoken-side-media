@@ -1,0 +1,1 @@
+Anime character reference collection for reels and storytelling. Includes individual cropped scene references, two overview character bible sheets, and original full-size couple/boy references. Cropped images may contain labels; they are not standalone high-resolution character renders. Use the character bible to keep names, outfits and relationships consistent.
