@@ -1,0 +1,28 @@
+file_slug,name,relation,category,source_crop_px,qhd_size
+01_Nithya_Female_Lead,Nithya,Female Lead - Main Couple,01_Leads,648x250,1440x2560
+02_Arjun_Male_Lead,Arjun,Male Lead - Main Couple,01_Leads,695x252,1440x2560
+03_Ishita,Ishita,Nithya's Best Friend,02_Friends_Circle,259x184,1440x2560
+04_Karthik,Karthik,Arjun's Best Friend,02_Friends_Circle,252x181,1440x2560
+05_Meera,Meera,Mutual Friend,02_Friends_Circle,249x181,1440x2560
+06_Vikram,Vikram,Friend,02_Friends_Circle,258x181,1440x2560
+07_Divya,Divya,Friend,02_Friends_Circle,248x181,1440x2560
+08_Sanjay,Sanjay,Friend,02_Friends_Circle,258x181,1440x2560
+09_Priya,Priya,Friend,02_Friends_Circle,253x175,1440x2560
+10_Rahul,Rahul,Friend,02_Friends_Circle,250x175,1440x2560
+11_Ananya,Ananya,Friend,02_Friends_Circle,252x175,1440x2560
+12_Abishek,Abishek,Friend,02_Friends_Circle,252x175,1440x2560
+13_Varun,Varun,Friend,02_Friends_Circle,250x175,1440x2560
+14_Swathi,Swathi,Friend,02_Friends_Circle,253x175,1440x2560
+15_Raghavan_Arjuns_Father,Raghavan,Arjun's Father,03_Arjuns_Family,270x142,1440x2560
+16_Lakshmi_Arjuns_Mother,Lakshmi,Arjun's Mother,03_Arjuns_Family,240x142,1440x2560
+17_Kavin_Arjuns_Brother,Kavin,Arjun's Younger Brother,03_Arjuns_Family,252x142,1440x2560
+18_Suresh_Nithyas_Father,Suresh,Nithya's Father,04_Nithyas_Family,248x142,1440x2560
+19_Revathi_Nithyas_Mother,Revathi,Nithya's Mother,04_Nithyas_Family,248x142,1440x2560
+20_Kaviya_Nithyas_Sister,Kaviya,Nithya's Younger Sister,04_Nithyas_Family,256x142,1440x2560
+21_Rohit_Office_Colleague,Rohit,Office Colleague,05_Work_College_Extended,165x191,1440x2560
+22_Shreya_Office_Colleague,Shreya,Office Colleague,05_Work_College_Extended,162x191,1440x2560
+23_Madhan_Team_Lead_Mentor,Madhan,Team Lead / Mentor,05_Work_College_Extended,161x191,1440x2560
+24_Gayathri_Mentor_Guide,Gayathri,Mentor / Guide,05_Work_College_Extended,171x191,1440x2560
+25_Prakash_Neighbor,Prakash,Neighbor / Family Friend,05_Work_College_Extended,166x191,1440x2560
+26_Group_Friends_Circle,Friends Circle,Group Reference - 8-10 Members,06_Group_and_Map,499x201,1440x2560
+27_Relationship_Map,Relationship Map,Arjun + Nithya / Friends / Family / Work / Neighbors,06_Group_and_Map,178x201,1440x2560
